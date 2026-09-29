@@ -25,8 +25,8 @@
 # **Инструкция по локальному запуску**
 
 1. **Клонирование репозитория:**  
-   `git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>`  
-   `cd <НАЗВАНИЕ_ПАПКИ_ПРОЕКТА>`  
+   `git clone <https://github.com/GINSENG-A7/green-api-whatsapp-chat.git>`  
+   `cd <green-api-whatsapp-chat>`  
 2. **Установка зависимостей:**  
    `npm install`  
      
